@@ -1,0 +1,7 @@
+Create a Database named with 'pdoposts'
+
+And complete the values given below with your own values:
+$host=
+$user=
+$password=
+$dbname='pdoposts'

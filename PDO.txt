@@ -1,0 +1,35 @@
+PDO:-
+	PHP Data Object (PHP Extesion)
+	Lean & consistent way to access the database
+	works with multiple databases
+	Data access layer
+	Object oriented
+
+
+Some benefits of PDO:-
+	multiple Databases
+	security/ Prepared Statements
+	Usability
+	Reusablity
+	Exellent Error Handling
+
+
+Main PDO Classes:-
+	PDO - Represents a connection between PHP & DB
+	PDOStatement - Represents a prepared statement and after executed an 		associated result
+	PDOException - Represents errors and raised by PDO
+
+
+Supported Databses:-
+	Mysql
+	Postgresql
+	ms sql server
+	oracle
+	firebird
+	sybase
+	ibm
+	informix
+	sqlite
+	freeTDS
+	4D
+	Cubrid
